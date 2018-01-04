@@ -1,0 +1,5 @@
+With a continuously running clock complete 5 thrusters every minute.
+From 0:00-5:00 use 75 lb.
+From 5:00-10:00 use 95 lb.
+From 10:00-15:00 use 115 lb.
+Continue adding 20 lb. every 5 minutes for as long as you are able.

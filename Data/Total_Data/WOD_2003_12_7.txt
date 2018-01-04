@@ -1,0 +1,6 @@
+Without rest between exercises:
+Tabata Squat
+Tabata Sit-up
+Tabata Push-up
+Tabata Pull-up
+ Score for each exercise is least number of reps completed in 8 intervals. Total score is sum of scores for all 4 exercises. E.G. 22+15+15+9=61

@@ -1,0 +1,4 @@
+With a running clock, every minute perform 1 lift and add 10 lb.
+Start with an empty barbell and snatch for as long as possible.
+Once you cannot snatch the weight, clean for as long as possible.
+Once you cannot clean the weight, deadlift for as long as possible.
