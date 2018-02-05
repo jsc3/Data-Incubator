@@ -1,0 +1,17 @@
+"Tabata This!"
+Tabata Row
+Rest 1 minute
+Tabata Squat
+Rest 1 minute
+Tabata Pull-up
+Rest 1 minute
+Tabata Push-up
+Rest 1 minute
+Tabata Sit-up
+The Tabata interval is 20 seconds of work followed by 10 seconds of rest for 8 intervals.
+Tabata score is the least number of reps performed in any of the eight intervals. Unit for the row is "calories".
+Russ Malz 8, 21, 10, 15, 20 = 74, Kristan Clever 4, 25, 10, 15, 18 = 72,
+Kim Malz 5, 22, 10, 11, 23 = 71, Austin Malleolo 8, 21, 10, 14, 11 = 64.
+Post Tabata score for each exercise to comments and total for final score.
+Compare to 100217.
+

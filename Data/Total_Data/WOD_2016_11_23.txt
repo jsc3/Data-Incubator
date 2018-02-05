@@ -1,0 +1,11 @@
+For time:
+Run 400 meters
+Rest 1 minute
+Run 800 meters
+Rest 2 minutes
+Run 1,200 meters
+Rest 3 minutes
+Run 1,600 meters
+Post time to comments.
+Compare to 160319.
+
