@@ -1,8 +1,0 @@
-Row 250 meters
-Row 500 meters
-Row 1,000 meters
-Row 500 meters
-Row 250 meters
-Rest 1 minute between efforts.
-Post time for each interval to comments.
-

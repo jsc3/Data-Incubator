@@ -1,6 +1,0 @@
-With a continuously running clock do one pull-up the first minute, two pull-ups the second minute, three pull-ups the third minute... continuing as long as you are able.
-Use as many sets each minute as needed.
-Lance Cantu 22 min + 11, Kim Malz 21 min + 9, Jose Santiago 18 min + 17.
-Post number of minutes completed to comments.
-Compare to 100926.
-

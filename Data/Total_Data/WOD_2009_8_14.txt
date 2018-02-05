@@ -1,5 +1,0 @@
-With a continuously running clock do one pull-up the first minute, two pull-ups the second minute, three pull-ups the third minute... continuing as long as you are able.
-Use as many sets each minute as needed.
-Post number of minutes completed to comments.
-Compare to 090218.
-
